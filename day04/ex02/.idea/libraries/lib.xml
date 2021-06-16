@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/JCDP-4.0.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/JColor-5.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jcommander-1.81.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

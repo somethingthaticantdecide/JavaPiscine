@@ -1,0 +1,1 @@
+-- INSERT INTO product VALUES (1, 'rose', 10), (2, 'lily', 25), (3, 'orchid', 30), (4, 'pion', 35), (5, 'petunia', 40);

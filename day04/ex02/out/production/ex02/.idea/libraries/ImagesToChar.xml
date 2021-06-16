@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ImagesToChar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/target/ImagesToChar.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
